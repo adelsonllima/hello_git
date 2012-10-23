@@ -105,3 +105,15 @@ Para mostrar informações sobre uma tag:
 
 git show NOME_DA_TAG
 
+
+Para retirar as mudanças que foram feitas(e colocar numa pilha, ex: antes de baixar as mudanças do servidor "oringinal"):
+
+git stash
+
+
+Para retirar as mudanças da pilha:
+
+git stash pop
+
+
+
