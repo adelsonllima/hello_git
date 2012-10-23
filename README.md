@@ -61,6 +61,19 @@ Para retornar um arquivo a versão que está no repositório (tipo revert):
 git checkout ARQUIVO
 
 
+Para listar o branch:
+
+git branch
+
+
+Para criar um novo branch:
+
+git branch NOME_DO_BRANCH
+
+
+Para mudar de branch:
+
+git checkout NOME_DO_BRANCH
 
 
 
