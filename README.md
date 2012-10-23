@@ -76,4 +76,8 @@ Para mudar de branch:
 git checkout NOME_DO_BRANCH
 
 
+Para fazer um diff entre dois branchs:
+
+git diff NOME_BRANCH NOME_OUTRO_BRANCH
+
 
