@@ -24,3 +24,8 @@ git add ARQUIVO
 Para comitar o arquivo:
 
 git commit -m "MENSAGEM"
+
+Para adicionar e comitar tudo de uma vez utiliza o comando(CUIDADO: ele comita tudo mesmo!):
+
+git commit -am "MENSAGEM"
+
