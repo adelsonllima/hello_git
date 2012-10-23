@@ -34,3 +34,33 @@ Para adicionar e comitar tudo de uma vez utiliza o comando(CUIDADO: ele comita t
 git commit -am "MENSAGEM"
 
 
+Para remover um arquivo(OBS: remove também do sistema):
+
+git rm ARQUIVO
+
+git commit -m "MENSAGEM"
+
+
+Para o diff ficar colorido:
+
+git diff --color
+
+
+Para ver o histórico:
+
+git log
+
+
+Para ver algo similar ao diff:
+
+git show
+
+
+Para retornar um arquivo a versão que está no repositório (tipo revert):
+
+git checkout ARQUIVO
+
+
+
+
+
