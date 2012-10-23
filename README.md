@@ -86,4 +86,19 @@ Para ver detalhe dos commits de determinado arquivo:
 git blame NOME_ARQUIVO
 
 
+Para fazer um merge entre dois branchs:
+
+git merge NOME_BRANCJ NOME_OUTRO_BRANCH
+
+
+Para criar uma tag:
+
+git tag NOME_DA_TAG
+
+
+Para ir para tag:
+
+git checkout NOME_DA_TAG
+
+
 
