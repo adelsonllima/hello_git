@@ -101,4 +101,7 @@ Para ir para tag:
 git checkout NOME_DA_TAG
 
 
+Para mostrar informações sobre uma tag:
+
+git show NOME_DA_TAG
 
