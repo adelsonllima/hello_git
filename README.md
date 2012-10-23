@@ -81,3 +81,9 @@ Para fazer um diff entre dois branchs:
 git diff NOME_BRANCH NOME_OUTRO_BRANCH
 
 
+Para ver detalhe dos commits de determinado arquivo:
+
+git blame NOME_ARQUIVO
+
+
+
